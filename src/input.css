@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme{
+    --font-roboto: "Roboto", "sans-serif";
+    --text-10xl: 6.75rem;
+}
